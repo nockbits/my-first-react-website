@@ -1,0 +1,24 @@
+{
+  "name": "my-first-react-website",
+  "version": "1.0.0",
+  "description": "The goal of this project is to start with a simple website with HTML, SCSS and REACT JS. It could be for beginners/advanced users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nockbits/my-first-react-website.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "HTML5",
+    "CSS"
+  ],
+  "author": "Austin Noronha",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/nockbits/my-first-react-website/issues"
+  },
+  "homepage": "https://github.com/nockbits/my-first-react-website#readme"
+}
