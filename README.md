@@ -41,7 +41,7 @@ By contributing, you agree that your contributions will be licensed under its GN
 
 # Contribution 
 
-Please refer to our main contribution file - [contribute.md](https://github.com/austinnoronha/HacktoberFest2020-Contributions/blob/main/contribute.md)
+Please refer to our main contribution file - [contribute.md](https://github.com/nockbits/my-first-react-website/blob/main/contribute.md#contributions-by)
 
 ---
 ## References
