@@ -6,7 +6,7 @@ It could be for beginners/advanced users ( Contributions :earth_asia: are welcom
 We aim to achieve this collaboratively, so feel free to contribute in any way you want, just make sure to follow the contribution guidelines. 
 
 
-# 🖥️ Prohects in this Repo
+# 🖥️ Projects in this Repo
 
 - [Webiste Hello](@austinnoronha)
 
