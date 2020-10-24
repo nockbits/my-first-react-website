@@ -11,7 +11,7 @@ We aim to achieve this collaboratively, so feel free to contribute in any way yo
 - [Webiste Hello](@austinnoronha)
 
 
-# 🙌 HacktoberFest-2020
+# 🙌 HacktoberFest-2020  (hacktoberfest-accepted)
 
 Open source is changing the world - one pull request at a time. 
 
@@ -47,6 +47,7 @@ By contributing, you agree that your contributions will be licensed under its GN
 # Contribution 
 
 Please refer to our main contribution file - [contribute.md](https://github.com/nockbits/my-first-react-website/blob/main/contribute.md#contributions-by)
+
 
 ---
 ## References
