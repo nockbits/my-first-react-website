@@ -49,6 +49,9 @@ typings/
 
 # Optional npm cache directory
 .npm
+/.changelog
+.npm/
+yarn.lock
 
 # Optional eslint cache
 .eslintcache
@@ -102,3 +105,21 @@ dist
 
 # TernJS port file
 .tern-port
+
+# sftp configuration file
+sftp-config.json
+
+## CUSTOM FILES TO IGNORE ##
+*_conflict-*
+*.idea
+dist/*
+!dist
+Thumbs.db
+DS_Store
+tmp/*
+*.bak
+*.tgz
+
+# Editor files
+.idea/
+.vscode/
