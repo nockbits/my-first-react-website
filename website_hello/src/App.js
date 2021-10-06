@@ -11,7 +11,7 @@ function App() {
         
         <ol>
           <li>
-            <label>Install the default react library to create website & it's prerequisites</label>
+            <label>Install the default react library & it's prerequisites to create a website</label>
             <code>
             npm i -g create-react-app
             </code>
@@ -23,7 +23,7 @@ function App() {
             </code>
           </li>
           <li>
-            <label>After successfull compilation we ran npm start to check if the site is good to go!</label>
+            <label>After a successful compilation we run npm start to check if the site is good to go!</label>
             <code>
             cd website_hello<br />
             npm start
